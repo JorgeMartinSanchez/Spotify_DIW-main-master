@@ -1,0 +1,205 @@
+[
+    {
+        "nombre": "Grandes exitos",
+        "artista": "El Fary",
+        "imagen": "Fary.png",
+        "canciones":[
+            {
+                "nombre":"Ritmo Calo",
+                "audio":"./Fary/ritmocalo.mp3",
+                "duracion":"2:31",
+                "artistas":"El Fary"
+            },
+
+            {
+                "nombre":"Cuando vayas al Rocío",
+                "audio":"./Fary/cuandovayasalrocio.mp3",
+                "duracion":"3:23",
+                "artistas":"El Fary"
+            },
+
+            {
+                "nombre":"El Amor Es Una Droga",
+                "audio":"./Fary/elamoresunadroga.mp3",
+                "duracion":"3:29",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Un Corazon Para Sufrir",
+                "audio":"./Fary/corazonparasufrir.mp3",
+                "duracion":"2:45",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Mia Mia",
+                "audio":"./Fary/miamia.mp3",
+                "duracion":"3:27",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Un Huerto",
+                "audio":"./Fary/unhuerto.mp3",
+                "duracion":"2:34",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Mi Cante",
+                "audio":"./Fary/micante.mp3",
+                "duracion":"3:07",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Lloraba",
+                "audio":"./Fary/lloraba.mp3",
+                "duracion":"2:43",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"Entre Barrenos",
+                "audio":"./Fary/entrebarrenos.mp3",
+                "duracion":"3:34",
+                "artistas":"El Fary"
+            },
+            {
+                "nombre":"La Mandanga",
+                "audio":"./Fary/mandanga.mp3",
+                "duracion":"2:46",
+                "artistas":"El Fary"
+            }
+        ]
+    },
+    
+
+    {
+        "nombre": "Resacosos",
+        "artista": "Super merk-2",
+        "imagen": "Supermerk-2.jpeg",
+        "canciones":[
+            {
+                "nombre":"La Resaka",
+                "audio":"./Supermerk2/La Resaka.mp3",
+                "duracion":"3:35",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"Que Calor",
+                "audio":"./Supermerk2/Que Calor.mp3",
+                "duracion":"4:05",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"La Lata",
+                "audio":"./Supermerk2/La Lata.mp3",
+                "duracion":"3:35",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"Nunca Sabrás",
+                "audio":"./Supermerk2/Nunca Sabras.mp3",
+                "duracion":"3:48",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"El Fogón",
+                "audio":"./Supermerk2/El Fogon.mp3",
+                "duracion":"2:49",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"Culo Pa 2 Tangas",
+                "audio":"./Supermerk2/Culo pa 2 tangas.mp3",
+                "duracion":"3:23",
+                "artistas":"Super merk-2, El Pepo"
+            },
+            {
+                "nombre":"En La Cara Me Pega El Sol",
+                "audio":"./Supermerk2/En La Cara Me Pega El Sol.mp3",
+                "duracion":"3:48",
+                "artistas":"Super merk-2"
+            },
+            {
+                "nombre":"Persecuta(Remix)",
+                "audio":"./Supermerk2/Persecuta (REMIX).mp3",
+                "duracion":"3:20",
+                "artistas":"Super merk-2, El Pepo, El Mudo, Sound de Barrio"
+            },
+            {
+                "nombre":"Mulo Raro",
+                "audio":"./Supermerk2/Mulo Raro.mp3",
+                "duracion":"4:49",
+                "artistas":"Super merk-2"
+            }
+        ]
+    },
+
+
+    {
+        "nombre": "Free Minds",
+        "artista": "Young Banger",
+        "imagen": "Young Banger.png",
+        "canciones":[
+            {
+                "nombre":"Intro",
+                "audio":"./Young Banger/Intro.mp3",
+                "duracion":"1:13",
+                "artistas":"Young Banger, Candle Lights"
+            },
+            {
+                "nombre":"One Way To Love",
+                "audio":"./Young Banger/One Way To Love.mp3",
+                "duracion":"2:35",
+                "artistas":"Young Banger"
+            },
+            {
+                "nombre":"Desde Paris Con Amor",
+                "audio":"./Young Banger/Desde Paris Con Amor.mp3",
+                "duracion":"2:21",
+                "artistas":"Young Banger"
+            },
+            {
+                "nombre":"Lookin For Your Love",
+                "audio":"./Young Banger/Lookin for your Love.mp3",
+                "duracion":"2:41",
+                "artistas":"Young Banger, Samek"
+            }
+        ]
+    },
+
+    {
+        "nombre": "Mis Favoritos",
+        "artista": "Duki",
+        "imagen": "Duki.png",
+        "canciones":[
+            {
+                "nombre":"Hello Cotto",
+                "audio":"./DUKO/Hello.mp3",
+                "duracion":"3:38",
+                "artistas":"Duki"
+            },
+            {
+                "nombre":"She Dont Give A Fo",
+                "audio":"./DUKO/dont give.mp3",
+                "duracion":"3:50",
+                "artistas":"Duki, Khea"
+            },
+            {
+                "nombre":"Loca - Remix",
+                "audio":"./DUKO/Loca.mp3",
+                "duracion":"4:20",
+                "artistas":"Khea, Duki, Cazzu"
+            },
+            {
+                "nombre":"Goteo",
+                "audio":"./DUKO/Goteo.mp3",
+                "duracion":"3:05",
+                "artistas":"Duki"
+            },
+            {
+                "nombre":"Ballin",
+                "audio":"./DUKO/Ballin'.mp3",
+                "duracion":"2:20",
+                "artistas":"Duki"
+            }
+        ]
+    }
+]

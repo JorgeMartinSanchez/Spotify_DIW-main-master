@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="album">
+        <img src="./Fary.png" alt="">
+        <h1>GRANDES EXITOS</h1>
+        <h3>EL Fary</h3>
+    </div>
+    <div class="canciones">
+        <ol>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+            <li>hola</li>
+        </ol>
+    </div>
+</body>
+</html>
+
+
+
+
+
+let fary = primeraFila.firstChild;
+let supermerk = primeraFila.lastChild;
+let banger = segundaFila.firstChild;
+let duki = segundaFila.lastChild;
+
+fary.addEventListener("click", ()=>{
+  main.innerHTML="";
+
+  var faryAlbum = `
+    <div class = "albumes">
+      <div class="album">
+          <img src="./Fary.png" alt="">
+          <h1>GRANDES EXITOS</h1>
+          <h3>EL Fary</h3>
+      </div>
+      <div class="canciones">
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+      </div>
+    </div>
+  `;
+  main.innerHTML = faryAlbum;
+});
+
+supermerk.addEventListener("click", ()=>{
+  main.innerHTML="";
+  var supermerkAlbum = `
+    <div class = "albumes">
+      <div class="album">
+          <img src="./Supermerk-2.jpeg" alt="">
+          <h1>RESACOSOS</h1>
+          <h3>Super merk-2</h3>
+      </div>
+      <div class="canciones">
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+      </div>
+    </div>
+`;
+main.innerHTML = supermerkAlbum;
+
+});
+
+banger.addEventListener("click", ()=>{
+  main.innerHTML="";
+  var bangerAlbum = `
+    <div class = "albumes">
+      <div class="album">
+          <img src="./Young Banger.png" alt="">
+          <h1>FREE MINDS</h1>
+          <h3>Young Banger</h3>
+      </div>
+      <div class="canciones">
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+      </div>
+    </div>
+`;
+main.innerHTML = bangerAlbum;
+  
+});
+
+duki.addEventListener("click", ()=>{
+  main.innerHTML="";
+  var dukiAlbum = `
+      <div class = "albumes">
+        <div class="album">
+            <img src="./Duki.png" alt="">
+            <h1>MIS FAVORITOS</h1>
+            <h3>Duki</h3>
+        </div>
+        <div class="canciones">
+          <ol>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+          </ol>
+        </div>
+        </div>
+  `;
+  main.innerHTML = dukiAlbum;
+});
